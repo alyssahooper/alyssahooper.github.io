@@ -1,8 +1,8 @@
 /* Colors
 #cb997e;
 #fbfaf8ff;
-#110b11ff;
-*/
+#110b11ff;*/
+/* properties are styled alphabetically */
 
 * {
   box-sizing: border-box;
@@ -20,16 +20,11 @@ a:hover{
 }
 
 html, body {
-  height: 100%;
-  margin: 0;
-}
-
-body {
   align-items: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("../images/cheers.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  display: flex;
+  background-color: #cb997e;
+  height: 100vh;
+  margin: 0;
+  width: 100vw;
 }
 
 strong {
@@ -39,8 +34,10 @@ strong {
 
 .container {
   color: #fff;
+  height: 100vh;
   margin: 0 auto;
   text-align: center;
+  width: 100vw;
 }
 
 h1 {
@@ -60,6 +57,13 @@ li {
 li span {
   display: block;
   font-size: 4.5rem;
+}
+
+.landing {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("../images/cheers.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
 
 .message {
