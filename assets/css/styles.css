@@ -11,6 +11,14 @@
   padding: 0;
 }
 
+a {
+  color: #fbfaf8ff;
+}
+
+a:hover{
+  color: #110b11ff;
+}
+
 html, body {
   height: 100%;
   margin: 0;
@@ -18,7 +26,7 @@ html, body {
 
 body {
   align-items: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("cheers.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("../images/cheers.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -80,4 +88,8 @@ li span {
   li span {
     font-size: 3.375rem;
   }
+}
+
+.fab {
+  padding: 0.6%;
 }
