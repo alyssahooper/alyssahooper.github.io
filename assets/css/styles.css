@@ -17,7 +17,7 @@ a {
 }
 
 a:hover {
-  color: #110b11ff;
+  opacity: 0.5;
 }
 
 html, body {
@@ -73,6 +73,16 @@ strong {
   padding: 0.6%;
 }
 
+.footer {
+  background-color: #110b11ff;
+  padding: 5% 5% 2% 5%;
+  width: 100vw;
+}
+
+.footer__icons {
+  margin-bottom: 0;
+}
+
 .landing {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("../images/cheers.jpg");
   background-size: cover;
@@ -80,7 +90,7 @@ strong {
   height: 100vh;
 }
 
-.message {
+.landing__message {
   font-size: 4rem;
 }
 
