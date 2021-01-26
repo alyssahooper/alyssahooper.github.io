@@ -1,7 +1,7 @@
 function Countdown(){
   return(
-    <div>
-    count placeholder
+    <div className="Countdown">
+      count placeholder
     </div>
   );
 }
