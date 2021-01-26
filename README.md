@@ -1,9 +1,30 @@
-# Zucchiny
-**A frontend coding challenge**
+#  Zucchiny
 
--Technologies: HTML, CSS, Bootstrap
+## 🎥  Preview site :arrow_right: [here](https://)
 
--Goal: Create a design file and code a coming soon page for a Sacramento restaurant catering to professionals that is opening in two weeks.
+# Technologies used:
+* [x] Bootstrap
+* [x] React
+* [x] HTML, CSS, JS
 
--To run: cd into the zucchiny folder,
-$ yarn start
+## For this project I've used:
+- Responsive design
+- BEM Naming
+
+### Main goals:
+-  Create a design file
+-  Code a coming soon page for a Sacramento restaurant serving drinks and food that caters to professionals ages 21-80 that is opening in two weeks.
+
+## Conclusion:
+-
+
+## Usage:
+
+1. Install Dev Depedencies
+```
+yarn install
+```
+2. To start development and server for live preview
+```
+yarn start
+```

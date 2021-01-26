@@ -11,6 +11,12 @@
   font-family: 'Lato', sans-serif;
 }
 
+strong {
+  font-weight: 600;
+  color: #a1867fff;
+  margin: 0.3%;
+}
+
 .App {
   text-transform: uppercase;
 }
@@ -19,6 +25,7 @@
   color: #fbfaf8ff;
   text-align: center;
 }
+
 /* glassmorphism? */
 .Countdown {
   /* background: rgba( 255, 255, 255, 0.25 );
@@ -26,9 +33,4 @@
   backdrop-filter: blur( 4px );
   -webkit-backdrop-filter: blur( 4px );
   border-radius: 10px; */
-}
-
-strong {
-  font-weight: 600;
-  color: #a1867fff;
 }
