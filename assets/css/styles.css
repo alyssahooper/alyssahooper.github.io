@@ -2,6 +2,7 @@
 #cb997e;
 #fbfaf8ff;
 #110b11ff;*/
+
 /* properties are styled alphabetically */
 
 * {
@@ -27,19 +28,6 @@ html, body {
   width: 100vw;
 }
 
-strong {
-  font-weight: 600;
-  color: #cb997e;
-}
-
-.container {
-  color: #fff;
-  height: 100vh;
-  margin: 0 auto;
-  text-align: center;
-  width: 100vw;
-}
-
 h1 {
   font-weight: normal;
   letter-spacing: .125rem;
@@ -59,15 +47,17 @@ li span {
   font-size: 4.5rem;
 }
 
-.landing {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("../images/cheers.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 100vh;
+strong {
+  font-weight: 600;
+  color: #cb997e;
 }
 
-.message {
-  font-size: 4rem;
+.container {
+  color: #fff;
+  height: 100vh;
+  margin: 0 auto;
+  text-align: center;
+  width: 100vw;
 }
 
 #content {
@@ -96,4 +86,15 @@ li span {
 
 .fab {
   padding: 0.6%;
+}
+
+.landing {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("../images/cheers.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.message {
+  font-size: 4rem;
 }
