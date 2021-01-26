@@ -18,7 +18,9 @@ html, body {
 
 body {
   align-items: center;
-  background-color: #110b11ff;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("cheers.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
   display: flex;
 }
 
