@@ -16,7 +16,7 @@ a {
   color: #fbfaf8ff;
 }
 
-a:hover{
+a:hover {
   color: #110b11ff;
 }
 
@@ -69,21 +69,6 @@ strong {
   padding: 0 .25rem;
 }
 
-@media all and (max-width: 768px) {
-  h1 {
-    font-size: 1.5rem;
-  }
-
-  li {
-    font-size: 1.125rem;
-    padding: .75rem;
-  }
-
-  li span {
-    font-size: 3.375rem;
-  }
-}
-
 .fab {
   padding: 0.6%;
 }
@@ -97,4 +82,19 @@ strong {
 
 .message {
   font-size: 4rem;
+}
+
+@media all and (max-width: 768px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  li {
+    font-size: 1.125rem;
+    padding: .75rem;
+  }
+
+  li span {
+    font-size: 3.375rem;
+  }
 }
