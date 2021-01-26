@@ -9,6 +9,7 @@
 ## For this project I've used:
 - Responsive design
 - BEM Naming
+- Aesthetic minimalism
 
 ### Main goals:
 -  Create a design file
