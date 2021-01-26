@@ -10,7 +10,7 @@
   background-color: #110b11ff;
 }
 
-.App {
+.App, .Footer {
   color: #fbfaf8ff;
   text-align: center;
 }
