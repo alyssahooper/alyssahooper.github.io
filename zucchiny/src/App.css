@@ -6,6 +6,11 @@
 #110b11ff;
 */
 
+* {
+  background-color: #110b11ff;
+}
+
 .App {
+  color: #fbfaf8ff;
   text-align: center;
 }
