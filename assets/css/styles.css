@@ -75,13 +75,15 @@ strong {
 
 .footer {
   background-color: #110b11ff;
+  display: flex;
+  flex-direction: column-reverse;
   height: 100vh;
   padding: 5% 5% 2% 5%;
   width: 100vw;
 }
 
 .footer__icons {
-  margin-bottom: 0.5%;
+  margin: 0.5% 0 0.5% 0;
 }
 
 .landing {
@@ -100,11 +102,14 @@ strong {
 }
 
 .location {
+  display: flex;
+  flex-direction: row;
   height: 100vh;
+  justify-content: space-evenly;
   width: 100vw;
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 640px) {
   h1 {
     font-size: 1.5rem;
   }
