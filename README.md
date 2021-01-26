@@ -4,7 +4,6 @@
 
 # Technologies used:
 * [x] Bootstrap
-* [x] React
 * [x] HTML, CSS, JS
 
 ## For this project I've used:
