@@ -3,7 +3,9 @@ import React from 'react'
 function Footer(){
   return (
     <div className="Footer">
-      social media placeholder
+      <i class="fab fa-facebook"></i>
+      <i class="fab fa-instagram"></i>
+      <i class="fab fa-twitter-square"></i>
     </div>
   );
 }
