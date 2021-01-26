@@ -3,13 +3,13 @@
 ## 🎥  Preview site :arrow_right: [here](https://)
 
 # Technologies used:
-* [x] Bootstrap
 * [x] HTML, CSS, JS
 
 ## For this project I've used:
 - Responsive design
 - BEM Naming
 - Aesthetic minimalism
+- Google Maps iframe
 
 ### Main goals:
 -  Create a design file
