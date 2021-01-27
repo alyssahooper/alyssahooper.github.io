@@ -8,7 +8,7 @@
 ## For this project I've used:
 - Responsive design
 - Flexbox
-- Accessibility forward
+- Accessibility in mind
 - BEM Naming
 - Aesthetic minimalism
 - Google Maps iframe

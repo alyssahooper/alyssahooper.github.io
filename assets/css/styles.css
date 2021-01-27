@@ -124,4 +124,16 @@ strong {
   li span {
     font-size: 3.375rem;
   }
+
+  .footer__icons {
+    padding: 10% 0 2% 0;
+  }
+
+  .location {
+    flex-direction: column;
+  }
+
+  .location__hours, .location__address {
+    padding: 5% 0 50% 2%
+  }
 }
