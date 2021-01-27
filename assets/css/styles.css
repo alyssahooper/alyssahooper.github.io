@@ -111,6 +111,12 @@ strong {
   padding-top: 20%;
 }
 
+@media all and (max-width: 1200px) {
+  .location {
+    flex-direction: column;
+  }
+}
+
 @media all and (max-width: 640px) {
   h1 {
     font-size: 1.5rem;
@@ -127,10 +133,6 @@ strong {
 
   .footer__icons {
     padding: 10% 0 2% 0;
-  }
-
-  .location {
-    flex-direction: column;
   }
 
   .location__hours, .location__address {
