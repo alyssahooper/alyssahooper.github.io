@@ -1,6 +1,6 @@
 #  Zucchiny
 
-## 🎥  Preview site :arrow_right: [here](https://)
+## 🎥  Preview site :arrow_right: [here](http://alyssahooper.github.io/)
 
 # Technologies used:
 * [x] HTML, CSS, JS
