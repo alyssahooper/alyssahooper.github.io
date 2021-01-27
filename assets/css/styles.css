@@ -34,6 +34,14 @@ h1 {
   text-transform: uppercase;
 }
 
+img {
+  border-radius: 10px;
+}
+
+img:hover {
+  opacity: 0.8;
+}
+
 li {
   display: inline-block;
   font-size: 1.5em;
