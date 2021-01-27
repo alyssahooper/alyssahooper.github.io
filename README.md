@@ -18,15 +18,9 @@
 -  Code a coming soon page for a Sacramento restaurant serving drinks and food that caters to professionals ages 21-80 that is opening in two weeks.
 
 ## Conclusion:
--
+- I chose CSS Flexbox over Bootstrap because I did not need to add an additional framework which allows the page views to be faster.
+- I loved considering the project from all angles which is what I did when I tested it in Chrome, Safari and mobile devices.
 
 ## Usage:
 
-1. Install Dev Depedencies
-```
-yarn install
-```
-2. To start development and server for live preview
-```
-yarn start
-```
+1. Open the `index.html` file in any browser
