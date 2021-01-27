@@ -22,7 +22,7 @@
               countdown = document.getElementById("countdown"),
               content = document.getElementById("content");
 
-          headline.innerText = "Cheers!";
+          headline.innerText = "We're open!";
           countdown.style.display = "none";
           content.style.display = "block";
 
