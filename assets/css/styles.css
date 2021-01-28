@@ -36,6 +36,7 @@ h1 {
 
 img {
   border-radius: 10px;
+  margin: 5%;
 }
 
 img:hover {
@@ -141,6 +142,11 @@ strong {
 
   .footer__icons {
     padding: 10% 0 2% 0;
+  }
+
+  .img {
+    height: 80%;
+    width: 80%;
   }
 
   .location__hours, .location__address {
